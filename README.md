@@ -1,4 +1,4 @@
-# WebSocket 即时通讯系统
+# WebSocket 即时聊天平台
 
 基于 Spring Boot + Vue.js 的实时聊天应用，支持私聊和群聊功能。
 
