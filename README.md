@@ -34,7 +34,7 @@ mvnw spring-boot:run
 服务运行在 `http://localhost:8081`
 
 ### 前端启动
-
+请务必运行第二项！
 ```bash
 cd Vue/ws
 npm install
